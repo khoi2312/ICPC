@@ -1,6 +1,5 @@
-Makefile
-*.out
-.vscode
-input.txt
-output.txt
-[AZ]
+*
+!*.cpp
+!/certificate/
+!/image/
+

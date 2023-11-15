@@ -1,5 +1,9 @@
 *
-!*.cpp
-!/certificate/
-!/image/
+!*.*
+!*/
 
+Makefile
+*.out
+.vscode
+input.txt
+output.txt
